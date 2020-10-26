@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <meta name="generator" content="Serif WebPlus X7 (15,0,4,38)">
+    <meta name="viewport" content="width=750">
+    <link rel="stylesheet" type="text/css" href="wpscripts/wpstyles.css">
+    <style type="text/css">
+      .OBJ-1,.OBJ-1:link,.OBJ-1:visited { background-image:url('wpimages/wpfe7c5b41_06.png');background-repeat:no-repeat;background-position:0px 0px;text-decoration:none;display:block;position:absolute; }
+      .OBJ-1:hover { background-position:0px -76px; }
+      .OBJ-1:active,a:link.OBJ-1.Activated,a:link.OBJ-1.Down,a:visited.OBJ-1.Activated,a:visited.OBJ-1.Down,.OBJ-1.Activated,.OBJ-1.Down { background-position:0px -38px; }
+      .OBJ-1.Disabled,a:link.OBJ-1.Disabled,a:visited.OBJ-1.Disabled,a:hover.OBJ-1.Disabled,a:active.OBJ-1.Disabled { background-position:0px -114px; }
+      .OBJ-1:focus { outline-style:none; }
+      button.OBJ-1 { background-color:transparent;border:none 0px;padding:0;display:inline-block;cursor:pointer; }
+      button.OBJ-1:disabled { pointer-events:none; }
+      .OBJ-1.Inline { display:inline-block;position:relative;line-height:normal; }
+      .OBJ-1 span,.OBJ-1:link span,.OBJ-1:visited span { color:#000000;font-family:"Alien Encounters",serif;font-weight:normal;text-decoration:none;text-align:center;text-transform:none;font-style:normal;left:1px;top:10px;width:102px;height:19px;font-size:17px;display:block;position:absolute;cursor:pointer; }
+      .OBJ-2,.OBJ-2:link,.OBJ-2:visited { background-image:url('wpimages/wpe012ca7f_06.png');background-repeat:no-repeat;background-position:0px 0px;text-decoration:none;display:block;position:absolute; }
+      .OBJ-2:hover { background-position:0px -76px; }
+      .OBJ-2:active,a:link.OBJ-2.Activated,a:link.OBJ-2.Down,a:visited.OBJ-2.Activated,a:visited.OBJ-2.Down,.OBJ-2.Activated,.OBJ-2.Down { background-position:0px -38px; }
+      .OBJ-2.Disabled,a:link.OBJ-2.Disabled,a:visited.OBJ-2.Disabled,a:hover.OBJ-2.Disabled,a:active.OBJ-2.Disabled { background-position:0px -114px; }
+      .OBJ-2:focus { outline-style:none; }
+      button.OBJ-2 { background-color:transparent;border:none 0px;padding:0;display:inline-block;cursor:pointer; }
+      button.OBJ-2:disabled { pointer-events:none; }
+      .OBJ-2.Inline { display:inline-block;position:relative;line-height:normal; }
+      .OBJ-2 span,.OBJ-2:link span,.OBJ-2:visited span { color:#000000;font-family:"Alien Encounters",serif;font-weight:normal;text-decoration:none;text-align:center;text-transform:none;font-style:normal;left:1px;top:10px;width:102px;height:19px;font-size:17px;display:block;position:absolute;cursor:pointer; }
+      .OBJ-3,.OBJ-3:link,.OBJ-3:visited { background-image:url('wpimages/wp8b736a05_06.png');background-repeat:no-repeat;background-position:0px 0px;text-decoration:none;display:block;position:absolute; }
+      .OBJ-3:hover { background-position:0px -76px; }
+      .OBJ-3:active,a:link.OBJ-3.Activated,a:link.OBJ-3.Down,a:visited.OBJ-3.Activated,a:visited.OBJ-3.Down,.OBJ-3.Activated,.OBJ-3.Down { background-position:0px -38px; }
+      .OBJ-3.Disabled,a:link.OBJ-3.Disabled,a:visited.OBJ-3.Disabled,a:hover.OBJ-3.Disabled,a:active.OBJ-3.Disabled { background-position:0px -114px; }
+      .OBJ-3:focus { outline-style:none; }
+      button.OBJ-3 { background-color:transparent;border:none 0px;padding:0;display:inline-block;cursor:pointer; }
+      button.OBJ-3:disabled { pointer-events:none; }
+      .OBJ-3.Inline { display:inline-block;position:relative;line-height:normal; }
+      .OBJ-3 span,.OBJ-3:link span,.OBJ-3:visited span { color:#000000;font-family:"Alien Encounters",serif;font-weight:normal;text-decoration:none;text-align:center;text-transform:none;font-style:normal;left:1px;top:10px;width:270px;height:19px;font-size:17px;display:block;position:absolute;cursor:pointer; }
+    </style>
+    <script type="text/javascript" src="wpscripts/jquery.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+      $("a.ActiveButton").bind({ mousedown:function(){if ( $(this).attr('disabled') === undefined ) $(this).addClass('Activated');}, mouseleave:function(){ if ( $(this).attr('disabled') === undefined ) $(this).removeClass('Activated');}, mouseup:function(){ if ( $(this).attr('disabled') === undefined ) $(this).removeClass('Activated');}});
+      });
+    </script>
+  </head>
+  <body style="height:1000px;background:#000000;">
+    <div id="divMain" style="background:transparent;margin-left:auto;margin-right:auto;position:relative;width:750px;height:1000px;">
+      <div style="position:absolute;left:38px;top:216px;width:675px;height:510px;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xRQnJyP77tY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div style="position:absolute;left:24px;top:778px;width:703px;height:151px;">
+        <div id="cboxbutton" style="position: fixed; bottom: 8px; right: 16px; width: 150px; padding: 3px; text-align: center; cursor: pointer; background-color: #8EFF02; border:#C3D7E5 1px solid;border-radius: 3px; font-family: Tahoma, sans-serif; font-size: 16px;" onclick="togglecbox()"><b>Open Cbox</b></div>
+<div id="cboxdiv" style="display: none; position: fixed; bottom: 48px; right: 16px; width: 200px; background: #8EFF02; padding: 3px; line-height: 0;border:#C3D7E5 1px solid;border-radius: 3px;"></div>
+
+<script type="text/javascript">
+var cbvis = false;
+var cbload = false;
+var cbcookie = "cboxvis=";
+
+function togglecbox () {
+	var cbdiv = document.getElementById("cboxdiv");
+	var cbbut = document.getElementById("cboxbutton");
+
+	if (!cbvis) {
+		if (!cbload) {
+			cbdiv.innerHTML = '<iframe frameborder="0" width="200" height="305" src="http://www4.cbox.ws/box/?boxid=4221840&amp;boxtag=2cd4v2&amp;sec=main" marginheight="2" marginwidth="2" scrolling="auto" allowtransparency="yes" name="cboxmain4-4221840" style="border: 0px solid;border-bottom:0px" id="cboxmain4-4221840"></iframe><iframe frameborder="0" width="200" height="75" src="http://www4.cbox.ws/box/?boxid=4221840&amp;boxtag=2cd4v2&amp;sec=form" marginheight="2" marginwidth="2" scrolling="no" allowtransparency="yes" name="cboxform4-4221840" style="border: 0px solid;border-top:0px" id="cboxform4-4221840"></iframe>';
+			cbload = true;
+		}
+		cbdiv.style.display = "block";
+		cbbut.innerHTML = "Close Cbox";
+	}
+	else {
+		cbdiv.style.display = "none";
+		cbbut.innerHTML = "Open Cbox";
+	}
+	cbvis = !cbvis;
+	document.cookie = cbcookie+((cbvis)?1:0);
+}
+// Toggle Cbox open if it was previously
+var cbcookiei = document.cookie.indexOf(cbcookie);
+if (cbcookiei >= 0) {
+	if (document.cookie.substring(cbcookiei+cbcookie.length, cbcookiei+cbcookie.length+1) === "1") {
+		togglecbox();
+	}
+}
+</script>
+      </div>
+      <img alt="Project . Take your Time" src="wpimages/wp447e9cc3_06.png" style="position:absolute;left:271px;top:67px;width:452px;height:32px;">
+      <div style="position:absolute;left:135px;top:101px;width:615px;height:54px;">
+        <a href="index.html" id="nav_428_B1" class="OBJ-1 ActiveButton Down" style="display:block;position:absolute;left:98px;top:5px;width:105px;height:38px;">
+          <span>Home</span>
+        </a>
+        <a id="nav_428_B2" class="OBJ-2 ActiveButton" style="display:block;position:absolute;left:203px;top:5px;width:105px;height:38px;">
+          <span>Playlist</span>
+        </a>
+        <a href="page7.html" id="nav_428_B3" class="OBJ-1 ActiveButton" style="display:block;position:absolute;left:308px;top:5px;width:105px;height:38px;">
+          <span>Film</span>
+        </a>
+        <a href="page10.html" id="nav_428_B4" class="OBJ-1 ActiveButton" style="display:block;position:absolute;left:413px;top:5px;width:105px;height:38px;">
+          <span>link</span>
+        </a>
+      </div>
+      <img alt="www.ereticatv.x10host.com" src="wpimages/wp3f46b413_06.png" style="position:absolute;left:184px;top:19px;width:566px;height:44px;">
+      <img alt="" src="wpimages/wp271599cf.gif" style="position:absolute;left:22px;top:0px;width:146px;height:191px;">
+      <div id="nav_428_B2M" style="position:absolute;visibility:hidden;width:293px;height:298px;">
+        <a href="page2.html" id="nav_428_B2M_L1" class="OBJ-3 ActiveButton" style="display:block;position:absolute;left:10px;top:10px;width:273px;height:38px;">
+          <span>RSA&nbsp;animate</span>
+        </a>
+        <a href="page3.html" id="nav_428_B2M_L2" class="OBJ-3 ActiveButton" style="display:block;position:absolute;left:10px;top:50px;width:273px;height:38px;">
+          <span>La&nbsp;Storia&nbsp;delle&nbsp;cose</span>
+        </a>
+        <a href="page4.html" id="nav_428_B2M_L3" class="OBJ-3 ActiveButton" style="display:block;position:absolute;left:10px;top:90px;width:273px;height:38px;">
+          <span>Il&nbsp;grande&nbsp;inganno</span>
+        </a>
+        <a href="page6.html" id="nav_428_B2M_L4" class="OBJ-3 ActiveButton" style="display:block;position:absolute;left:10px;top:130px;width:273px;height:38px;">
+          <span>Crisi&nbsp;globale</span>
+        </a>
+        <a href="page5.html" id="nav_428_B2M_L5" class="OBJ-3 ActiveButton" style="display:block;position:absolute;left:10px;top:170px;width:273px;height:38px;">
+          <span>11&nbsp;settembre&nbsp;2001</span>
+        </a>
+        <a href="page8.html" id="nav_428_B2M_L6" class="OBJ-3 ActiveButton" style="display:block;position:absolute;left:10px;top:210px;width:273px;height:38px;">
+          <span>Beppe&nbsp;Grillo</span>
+        </a>
+        <a href="page9.html" id="nav_428_B2M_L7" class="OBJ-3 ActiveButton" style="display:block;position:absolute;left:10px;top:250px;width:273px;height:38px;">
+          <span>Il&nbsp;controllo&nbsp;della&nbsp;mente</span>
+        </a>
+      </div>
+    </div>
+    <script type="text/javascript" src="wpscripts/jsMenu.js"></script>
+    <script type="text/javascript">
+      wpmenustack.setRollovers([['nav_428_B1',''],['nav_428_B2','nav_428_B2M',{"m_vertical":true}],['nav_428_B3',''],['nav_428_B4','']]);
+      wpmenustack.setMenus(['nav_428_B2M'],null);
+    </script>
+  </body>
+</html>
